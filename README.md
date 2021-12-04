@@ -1,2 +1,2 @@
 # discount
-simple discount maker
+simple discount calculator
